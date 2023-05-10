@@ -75,6 +75,10 @@ Typography
 Layout
 **************/
 
+.App {
+  background-color: darkolivegreen;
+}
+
 .container {
   width: 90%;
   max-width: 1024px;
